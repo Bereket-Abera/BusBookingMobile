@@ -1,0 +1,84 @@
+{
+	"trips": [{
+		"busName": "Selam Bus",
+		"start": "Addis Ababa",
+		"destination": "Gonder",
+		"subroute": ["Bahir Dar", "Woldia"],
+		"price": 200,
+		"date": "5-6-2010",
+		"leavesAt": "12:00",
+		"arrivesAt": "3:43",
+		"type": "Direct"
+	}, {
+		"busName": "Aliance Bus",
+		"start": "Addis Ababa",
+		"destination": "Gonder",
+		"subroute": ["Bahir Dar", "Woldia"],
+		"price": 200,
+		"date": "5-6-2010",
+		"leavesAt": "12:00",
+		"arrivesAt": "3:43",
+		"type": "Direct"
+	}, {
+		"busName": "Gada Bus",
+		"start": "Addis Ababa",
+		"destination": "Gonder",
+		"subroute": null,
+		"price": 400,
+		"date": "5-6-2010",
+		"leavesAt": "12:00",
+		"arrivesAt": "3:43",
+		"type": "Direct"
+	}, {
+		"busName": "Selam Bus",
+		"start": "Addis Ababa",
+		"destination": "Dire Dawa",
+		"subroute": null,
+		"price": 290,
+		"date": "5-6-2010",
+		"leavesAt": "12:00",
+		"arrivesAt": "3:43",
+		"type": "Direct"
+	}, {
+		"busName": "Sky Bus",
+		"start": "Addis Ababa",
+		"destination": "Dire Dawa",
+		"subroute": null,
+		"price": 300,
+		"date": "5-6-2010",
+		"leavesAt": "12:00",
+		"arrivesAt": "3:43",
+		"type": "Direct"
+	}, {
+		"busName": "Selam Bus",
+		"start": "Addis Ababa",
+		"destination": "Harar",
+		"subroute": ["Bahir Dar", "Woldia"],
+		"price": 320,
+		"date": "5-6-2010",
+		"leavesAt": "12:00",
+		"arrivesAt": "3:43",
+		"type": "Direct"
+	}, {
+		"busName": "Golden Bus",
+		"start": "Addis Ababa",
+		"destination": "Mekele",
+		"subroute": ["Woldia"],
+		"price": 400,
+		"date": "5-6-2010",
+		"leavesAt": "12:00",
+		"arrivesAt": "3:43",
+		"type": "Direct"
+	}, {
+		"busName": "Sky Bus",
+		"start": "Addis Ababa",
+		"destination": "Mekele",
+		"subroute": ["Semerah"],
+		"price": 450,
+		"date": "5-6-2010",
+		"leavesAt": "12:00",
+		"arrivesAt": "3:43",
+		"type": "Direct"
+	}],
+	"formInputs": null
+}
